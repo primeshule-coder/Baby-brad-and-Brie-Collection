@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Products - Baby Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Our Products</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="signin.html">Sign In</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="product">
+      <img src="https://via.placeholder.com/150" alt="Baby Clothes">
+      <h3>Baby Clothes</h3>
+      <p>$10</p>
+    </div>
+    <div class="product">
+      <img src="https://via.placeholder.com/150" alt="Baby Toys">
+      <h3>Baby Toys</h3>
+      <p>$15</p>
+    </div>
+  </main>
+</body>
+</html>
