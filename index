@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Baby Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Baby Brad & Brie Collection 👶</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="products.html">Products</a>
+      <a href="signin.html">Sign In</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Welcome to our Baby Shop!</h2>
+    <p>Discover the best baby clothes, toys and accessories.</p>
+    <a href="products.html" class="btn">Shop Now</a>
+  </main>
+</body>
+</html>
