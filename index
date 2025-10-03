@@ -2,22 +2,47 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Baby Shop</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Baby Brad & Brie Collection</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <!-- Navigation -->
   <header>
-    <h1>Baby Brad & Brie Collection 👶</h1>
+    <h1>Baby Brad & Brie Collection</h1>
     <nav>
       <a href="index.html">Home</a>
       <a href="products.html">Products</a>
       <a href="signin.html">Sign In</a>
     </nav>
   </header>
-  <main>
-    <h2>Welcome to our Baby Shop!</h2>
-    <p>Discover the best baby clothes, toys and accessories.</p>
-    <a href="products.html" class="btn">Shop Now</a>
-  </main>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h2>Welcome to Baby Brad & Brie Collection</h2>
+    <p>Your one-stop shop for quality baby clothes, toys & accessories.</p>
+  </section>
+
+  <!-- Featured Products -->
+  <section class="products">
+    <h2>Featured Products</h2>
+    <div class="product-card">
+      <img src="https://via.placeholder.com/150" alt="Baby Clothes">
+      <p>Baby Clothes</p>
+    </div>
+    <div class="product-card">
+      <img src="https://via.placeholder.com/150" alt="Baby Toys">
+      <p>Baby Toys</p>
+    </div>
+    <div class="product-card">
+      <img src="https://via.placeholder.com/150" alt="Baby Accessories">
+      <p>Baby Accessories</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 Baby Brad & Brie Collection</p>
+  </footer>
 </body>
 </html>
